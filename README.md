@@ -5,7 +5,7 @@ A Comparative Evaluation of Deep Learning based Transformers for Entity Detectio
 
 Del Borrello Samuele
 
-Professor Andrea Belli \\
+Professor Andrea Belli 
 
 Abstract:
 
